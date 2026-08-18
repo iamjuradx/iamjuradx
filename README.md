@@ -1,3 +1,1 @@
-# Presentación profesional
-
-Los recursos visuales del perfil están contenidos en esta carpeta.
+﻿# 👨‍💻 Sebastian Jurado`n### Ingeniero en Sistemas & Telecomunicaciones | Especialista en IA y Automatización`n`n## 🎯 Sobre mí`nEspecialista en automatización inteligente y IA aplicada. 2+ años creando workflows complejos.`n`n- 🎓 Estudiante Ingeniería Sistemas & Telecomunicaciones`n- 🤖 Especialista en Automatización, IA, APIs y RPA`n- 🔧 Experto en n8n e integraciones`n`n## 🛠️ Expertise`nn8n, RPA, Python, Node.js, SQL, Azure, AWS, Docker, LLMs, ChatGPT`n`n## 💼 Experiencia`n- 2+ años | 25+ procesos | 500+ horas/año | 98% éxito`n`n## 📬 Contacto`n💼 [LinkedIn](https://linkedin.com) | 📧 sebastian@example.com | 🐙 [GitHub](https://github.com/iamjuradx)
