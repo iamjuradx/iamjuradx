@@ -1,83 +1,85 @@
-﻿# Sebastian Jurado
-### Ingeniero en Sistemas & Telecomunicaciones | Especialista en IA y Automatización
+﻿# 👨‍💻 Sebastian Jurado
+### 🚀 Ingeniero en Sistemas & Telecomunicaciones | Especialista en IA y Automatización
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastianjurado) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juansebastianjuradogarcia@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamjuradx) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573124567890)
 
 ---
 
-## Sobre mi
+## 🎯 Sobre mí
+Soy Ingeniero en Sistemas y Telecomunicaciones especializado en automatización inteligente y IA aplicada. 2+ años de experiencia liderando transformaciones digitales reduciendo tiempos en 70% y generando ahorros de 500+ horas anuales.
 
-Soy ingeniero especializado en automatizacion inteligente y soluciones de IA aplicada. 2+ anos de experiencia creando workflows complejos, integraciones enterprise y sistemas que escalan.
+## 🛠️ Stack Tecnológico
+**Automatización**: ![n8n](https://img.shields.io/badge/n8n-Expert-FF6B6B?style=flat-square) ![RPA](https://img.shields.io/badge/RPA-Advanced-FF6B6B?style=flat-square) ![Zapier](https://img.shields.io/badge/Zapier-Advanced-FF6B6B?style=flat-square)
+**Programación**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square)
+**Cloud**: ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square)
+**IA/ML**: ![ChatGPT](https://img.shields.io/badge/ChatGPT%20API-00A67E?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-FF6B6B?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
+**Bases de Datos**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square)
 
-- Estudiante de Ingenieria en Sistemas y Telecomunicaciones
-- Especialista en Automatizacion, IA Aplicada, APIs y RPA
-- Experto en n8n, integraciones enterprise y workflows inteligentes
+## 📊 Impacto & Métricas
+| Métrica | Resultado |
+|:---:|:---:|
+| Años Especializados | 2+ años |
+| Proyectos | 10+ |
+| Procesos Automatizados | 25+ |
+| Mejora en Tiempo | 70% |
+| Horas/Año Ahorradas | 500+ |
+| Sistemas Integrados | 15+ |
+| Tasa de Éxito | 98% ✅ |
+| Satisfacción | 100% 🌟 |
 
-## Expertise Tecnico
+## 🚀 Proyectos Destacados
 
-### Automatizacion & Integraciones
-- n8n (Nivel Experto) - Workflows complejos
-- RPA - Automatizacion de procesos empresariales
-- APIs - REST, GraphQL, Webhooks, OAuth2
-- Zapier & Make - Automatizacion cloud
+### Plataforma de Automatización Empresarial
+![n8n](https://img.shields.io/badge/n8n-Expert-FF6B6B?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+- 70% reducción en tiempo de procesamiento
+- ROI positivo en 3 meses
+- Escalabilidad para 1000+ transacciones/día
 
-### Lenguajes de Programacion
-- Python, JavaScript/Node.js, SQL, PowerShell
+### Sistema CRM + IA Predictiva
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![ChatGPT](https://img.shields.io/badge/ChatGPT%20API-00A67E?style=flat-square) ![Zapier](https://img.shields.io/badge/Zapier-Advanced-FF6B6B?style=flat-square)
+- 45% mejora en precisión de predicciones
+- 90% más rápido en análisis
+- 60% más oportunidades identificadas
 
-### Cloud & DevOps
-- Azure, AWS, Docker, Kubernetes, CI/CD
+### Bot de Automatización Inteligente
+![n8n](https://img.shields.io/badge/n8n-Expert-FF6B6B?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-FF6B6B?style=flat-square)
+- 85% automatización de tickets
+- Respuesta inmediata a clientes
+- 40% aumento en satisfacción
 
-### IA & Machine Learning
-- LLMs, ChatGPT API, Prompt Engineering
+## 💼 Experiencia
+**Especialista en Automatización (Actual)**
+- Diseño e implementación de workflows complejos en n8n
+- Reducción de tiempos en 70%
+- Integración de 15+ sistemas
+- Consultoría técnica en transformación digital
+- 500+ horas/año ahorradas
 
-### Bases de Datos
-- PostgreSQL, MongoDB, Redis
+## 🎓 Certificaciones
+- 🏆 Especialista en n8n (Nivel Avanzado)
+- 🏆 Certificado RPA y Automatización
+- 🏆 Experto en APIs RESTful
+- 🏆 Especialista en IA Aplicada
 
-## Experiencia Profesional
+## 📱 Contacto
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastianjurado)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juansebastianjuradogarcia@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamjuradx)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573124567890)
 
-**Especialista en Automatizacion**
-- 2+ anos especializados
-- Workflows complejos en n8n
-- 70% reduccion en tiempo de procesamiento
-- 15+ sistemas integrados
-- 500+ horas/ano ahorradas
+- 📧 Email: juansebastianjuradogarcia@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/sebastianjurado
+- 🐙 GitHub: https://github.com/iamjuradx
+- 📍 Ubicación: Manizales, Colombia 🇨🇴
 
-## Proyectos Destacados
+## 🌟 Mi Filosofía
+"No se trata solo de automatizar, sino de transformar procesos para generar oportunidades reales."
 
-### Plataforma de Automatizacion Empresarial
-- Workflows n8n + APIs + Dashboard React
-- 70% mejora en tiempo de procesamiento
-- Tech: n8n, PostgreSQL, Node.js, React, Docker
-
-### Sistema CRM + IA
-- Integracion con ChatGPT API
-- 45% mejora en precision de predicciones
-- Tech: Python, ChatGPT API, SQL, Zapier
-
-### Bot de Automatizacion Inteligente
-- n8n + LLM para clasificacion automatica
-- 85% automatizacion de tickets
-- Tech: n8n, Node.js, PostgreSQL, LLMs
-
-## Impacto & Metricas
-
-Experiencia: 2+ anos
-Proyectos: 10+
-Procesos: 25+
-Horas/ano: 500+
-Exito: 98%
-
-## Certificaciones
-
-- Especialista en n8n (Nivel Avanzado)
-- Certificado en RPA y Automatizacion
-- Experto en APIs RESTful
-- Especialista en IA Aplicada
-
-## Contacto
-
-LinkedIn: https://linkedin.com/in/sebastianjurado
-Email: sebastian.jurado@example.com
-GitHub: https://github.com/iamjuradx
+1. ✨ Análisis Profundo
+2. 🏗️ Diseño Escalable
+3. 📝 Código Limpio
+4. 📊 Impacto Medible
+5. 🔄 Soporte Continuo
 
 ---
-
-Especialista en transformar procesos mediante IA y automatizacion inteligente.
+Made with ❤️ by Sebastian Jurado | Última actualización: Agosto 2026
